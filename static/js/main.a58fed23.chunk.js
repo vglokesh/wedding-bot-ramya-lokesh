@@ -18,7 +18,7 @@
         l = a(58),
         u = a(26),
         j = a.n(u),
-        h = (a(36), a.p + "static/media/cover.b5afa7f3.png"),
+        h = (a(36), a.p + "static/media/cover.b5afa7f3.jpg"),
         m = a.p + "static/media/abhineet.fb68e553.jpg",
         p = a.p + "static/media/raksha.978b841a.jpeg",
         g = a.p + "static/media/img2.feea2512.jpg",
@@ -229,6 +229,8 @@
     o.a.render(Object(n.jsx)(s.a.StrictMode, { children: Object(n.jsx)(N, {}) }), document.getElementById("root")), S();
   }
 }, [[43, 1, 2]]]);
+//# sourceMappingURL=main.a58fed23.chunk.js.map
+
 //# sourceMappingURL=main.a58fed23.chunk.js.map
 
 //# sourceMappingURL=main.a58fed23.chunk.js.map
