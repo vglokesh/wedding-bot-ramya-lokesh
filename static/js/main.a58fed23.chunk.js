@@ -17,7 +17,7 @@
         l = a(58),
         u = a(26),
         j = a.n(u),
-        h = (a(36), a.p + "static/media/cover.b5afa7f3.jpg"),
+        h = (a(36), a.p + "static/media/cover.b5afa7f3.png"),
         m = a.p + "static/media/abhineet.fb68e553.jpg",
         p = a.p + "static/media/raksha.978b841a.jpeg",
         g = a.p + "static/media/img2.feea2512.jpg",
