@@ -21,10 +21,9 @@
         m = a.p + "static/media/abhineet.fb68e553.jpg",
         p = a.p + "static/media/raksha.978b841a.jpeg",
         g = a.p + "static/media/img2.feea2512.jpg",
-        f = a.p + "static/media/e-card.236b7a59.jpeg",
+        f = a.p + "static/media/e-card.236b7a59.jpg",
         O = a.p + "static/media/loading.e8db860b.gif",
         v = a.p + "static/media/wedding.b5887c68.mp3",
-        x = a.p + "static/media/e-video.e413b067.mp4",
         y = [
           { label: "\ud83d\udcc5 When is the wedding?", id: "wedding date" },
           {
@@ -32,22 +31,22 @@
               "\ud83d\udd7a\ud83c\udffc When is the Reception? \ud83d\udc83",
             id: "Reception date",
           },
-          { label: "Invitation Card & Video", id: "invitation" },
+          { label: "Invitation Card", id: "invitation" },
           { label: "Want to see your pics \ud83d\ude0d", id: "personal pics" },
           { label: "Where do I need to come?", id: "location" },
         ],
         w = {
           "wedding date": {
             text: [
-              "It's on the <b>6th</b> of Febraury.",
+              "It's on the <b>25th</b> of May.",
               "Yeah we know, it's less than even a month and we are super nervous!",
-              "Please be there by 11:45am \ud83d\ude4f ",
+              "Please be there by 06:30am \ud83d\ude4f ",
             ],
             audio: v,
           },
           "Reception date": {
             text: [
-              "It's on the <b>5th</b> of february.",
+              "It's on the <b>24th</b> of May.",
               "Yeah! He is a really good dancer \ud83d\udd7a. I am not so bad myself \ud83d\udc83\ud83c\udffb",
               "Please be there by 5pm \ud83d\ude4f ",
             ],
@@ -55,7 +54,7 @@
           "personal pics": { image: [m, p, g], text: ["Here you go"] },
           location: {
             text: [
-              "It's at <b>Vasavi Kalyana mandapa, Kampli</b>",
+              "It's at <b>JP NarayanaSwamy Samudhaya Bhavana</b>",
               "you can just follow google maps:",
             ],
             location:
@@ -76,7 +75,7 @@
                 image: [h],
                 text: [
                   "Hey! \ud83d\ude0a",
-                  "We, <b>Bhargavi</b> and <b>Pavan</b> are getting married. \ud83d\udc8d",
+                  "We, <b>Ramya</b> and <b>Lokesh</b> are getting married. \ud83d\udc8d",
                   "And we want you to be a part of this celebration as we take the next step together.",
                 ],
               },
